@@ -27,6 +27,11 @@ body {
 #top-panel td>a {
     display: block;
     width: 300px;
+    background: url("img/Logo.png") 0 0 no-repeat;
+}
+
+#top-panel td > a img {
+    display: none;
 }
 
 #breadcrumbs {
